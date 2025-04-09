@@ -1,6 +1,6 @@
-# Javid Weather
+# Weather Subscription Web App
 
-Javid Weather is a modern weather application built with Next.js, leveraging server-side rendering (SSR) and React Server Components (RSC) for optimal performance. It provides users with real-time weather updates, forecasts, and interactive UI components.
+Weather Subscription Web App is a modern weather application built with Next.js, leveraging server-side rendering (SSR) and React Server Components (RSC) for optimal performance. It provides users with real-time weather updates, forecasts, and interactive UI components.
 
 ## Features
 
@@ -25,8 +25,8 @@ Javid Weather is a modern weather application built with Next.js, leveraging ser
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/javid-weather.git
-   cd javid-weather
+   git clone https://github.com/javidhasanzade/weather-subscription-fe.git
+   cd weather-subscription-fe
    ```
 
 2. Install dependencies:
@@ -53,7 +53,7 @@ Javid Weather is a modern weather application built with Next.js, leveraging ser
 ## Folder Structure
 
 ```
-javid-weather/
+weather-subscription-fe/
 ├── .next/                # Build artifacts
 ├── src/
 │   ├── actions/          # Server-side actions
